@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="C_Language"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C9-1">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C9-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C9-1"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C9-1/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C9-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C9-1/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C7-3">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C7-3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C7-3"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C7-3/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C7-3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C7-3/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C1-1">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C1-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C1-1"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C1-1/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C1-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C1-1/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C9-6">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C9-6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C9-6"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C9-6/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C9-6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C9-6/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C6-1">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C6-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C6-1"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C6-1/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C6-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C6-1/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C7-4">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C7-4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C7-4"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C7-4/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C7-4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C7-4/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C9-5">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C9-5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C9-5"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C9-5/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C9-5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C9-5/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C7-7">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C7-7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C7-7"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C7-7/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C7-7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C7-7/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C6-2">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C6-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C6-2"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C6-2/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C6-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C6-2/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C9-3">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C9-3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C9-3"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C9-3/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C9-3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C9-3/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C7-1">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C7-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C7-1"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C7-1/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C7-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C7-1/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P281_11.3">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/P281_11.3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 P281_11.3"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P281_11.3/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/P281_11.3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 P281_11.3/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C7-2">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C7-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C7-2"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C7-2/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C7-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C7-2/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C7-5">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C7-5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C7-5"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C7-5/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C7-5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C7-5/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C9-4">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C9-4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C9-4"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C9-4/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C9-4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C9-4/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C7-6">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C7-6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C7-6"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C7-6/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C7-6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C7-6/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C8-1">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C8-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C8-1"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C8-1/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C8-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C8-1/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C8-2">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C8-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C8-2"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C8-2/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C8-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C8-2/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C8-3">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C8-3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C8-3"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C8-3/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C8-3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C8-3/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C8-4">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C8-4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C8-4"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C8-4/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C8-4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C8-4/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C8-5">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C8-5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C8-5"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C8-5/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C8-5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C8-5/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C8-6">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C8-6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C8-6"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C8-6/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C8-6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C8-6/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C8-7">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C8-7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C8-7"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C8-7/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C8-7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C8-7/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C8-8">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C8-8.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C8-8"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C8-8/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C8-8.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C8-8/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C8-9">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C8-9.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C8-9"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C8-9/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C8-9.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C8-9/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C8-10">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C8-10.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C8-10"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C8-10/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C8-10.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C8-10/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C9-2">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C9-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C9-2"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C9-2/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C9-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C9-2/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C10-1">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C10-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C10-1"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C10-1/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C10-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C10-1/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C10-2">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C10-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C10-2"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C10-2/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C10-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C10-2/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C10-3">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C10-3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C10-3"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C10-3/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C10-3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C10-3/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C10-4">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C10-4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C10-4"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C10-4/fast">
+				<Option output="E:/Code/C_Language_Practice/cmake-build-debug/C10-4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 C10-4/fast"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/Code/C_Language_Practice/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw64/bin/mingw32-make.exe -f &quot;E:/Code/C_Language_Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/Code/C_Language_Practice/C10-1.c">
+			<Option target="C10-1"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C10-2.c">
+			<Option target="C10-2"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C10-3.c">
+			<Option target="C10-3"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C10-4.c">
+			<Option target="C10-4"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C6-1.c">
+			<Option target="C6-1"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C6-2.c">
+			<Option target="C6-2"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C7-1.c">
+			<Option target="C7-1"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C7-2.c">
+			<Option target="C7-2"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C7-3.c">
+			<Option target="C7-3"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C7-4.c">
+			<Option target="C7-4"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C7-5.c">
+			<Option target="C7-5"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C7-6.c">
+			<Option target="C7-6"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C7-7.c">
+			<Option target="C7-7"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C8-1.c">
+			<Option target="C8-1"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C8-10.c">
+			<Option target="C8-10"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C8-2.c">
+			<Option target="C8-2"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C8-3.c">
+			<Option target="C8-3"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C8-4.c">
+			<Option target="C8-4"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C8-5.c">
+			<Option target="C8-5"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C8-6.c">
+			<Option target="C8-6"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C8-7.c">
+			<Option target="C8-7"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C8-8.c">
+			<Option target="C8-8"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C8-9.c">
+			<Option target="C8-9"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C9-1.c">
+			<Option target="C9-1"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C9-2.c">
+			<Option target="C9-2"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C9-3.c">
+			<Option target="C9-3"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C9-4.c">
+			<Option target="C9-4"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C9-5.c">
+			<Option target="C9-5"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/C9-6.c">
+			<Option target="C9-6"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/P281_11.3.c">
+			<Option target="P281_11.3"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/main.c">
+			<Option target="C1-1"/>
+		</Unit>
+		<Unit filename="E:/Code/C_Language_Practice/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
