@@ -83,6 +83,12 @@ all: CMakeFiles/C10-1.dir/all
 all: CMakeFiles/C10-2.dir/all
 all: CMakeFiles/C10-3.dir/all
 all: CMakeFiles/C10-4.dir/all
+all: CMakeFiles/C10-5.dir/all
+all: CMakeFiles/C10-6.dir/all
+all: CMakeFiles/C10-7.dir/all
+all: CMakeFiles/C10-8.dir/all
+all: CMakeFiles/C10-9.dir/all
+all: CMakeFiles/C10-10.dir/all
 
 .PHONY : all
 
@@ -123,6 +129,12 @@ clean: CMakeFiles/C10-1.dir/clean
 clean: CMakeFiles/C10-2.dir/clean
 clean: CMakeFiles/C10-3.dir/clean
 clean: CMakeFiles/C10-4.dir/clean
+clean: CMakeFiles/C10-5.dir/clean
+clean: CMakeFiles/C10-6.dir/clean
+clean: CMakeFiles/C10-7.dir/clean
+clean: CMakeFiles/C10-8.dir/clean
+clean: CMakeFiles/C10-9.dir/clean
+clean: CMakeFiles/C10-10.dir/clean
 
 .PHONY : clean
 
@@ -133,7 +145,7 @@ clean: CMakeFiles/C10-4.dir/clean
 CMakeFiles/C9-1.dir/all:
 	$(MAKE) -f CMakeFiles\C9-1.dir\build.make CMakeFiles/C9-1.dir/depend
 	$(MAKE) -f CMakeFiles\C9-1.dir\build.make CMakeFiles/C9-1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=49,50 "Built target C9-1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=61,62 "Built target C9-1"
 .PHONY : CMakeFiles/C9-1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -160,7 +172,7 @@ CMakeFiles/C9-1.dir/clean:
 CMakeFiles/C7-3.dir/all:
 	$(MAKE) -f CMakeFiles\C7-3.dir\build.make CMakeFiles/C7-3.dir/depend
 	$(MAKE) -f CMakeFiles\C7-3.dir\build.make CMakeFiles/C7-3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=19,20 "Built target C7-3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=31,32 "Built target C7-3"
 .PHONY : CMakeFiles/C7-3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -214,7 +226,7 @@ CMakeFiles/C1-1.dir/clean:
 CMakeFiles/C9-6.dir/all:
 	$(MAKE) -f CMakeFiles\C9-6.dir\build.make CMakeFiles/C9-6.dir/depend
 	$(MAKE) -f CMakeFiles\C9-6.dir\build.make CMakeFiles/C9-6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=59,60 "Built target C9-6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=71,72 "Built target C9-6"
 .PHONY : CMakeFiles/C9-6.dir/all
 
 # Build rule for subdir invocation for target.
@@ -241,7 +253,7 @@ CMakeFiles/C9-6.dir/clean:
 CMakeFiles/C6-1.dir/all:
 	$(MAKE) -f CMakeFiles\C6-1.dir\build.make CMakeFiles/C6-1.dir/depend
 	$(MAKE) -f CMakeFiles\C6-1.dir\build.make CMakeFiles/C6-1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=11,12 "Built target C6-1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=23,24 "Built target C6-1"
 .PHONY : CMakeFiles/C6-1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -268,7 +280,7 @@ CMakeFiles/C6-1.dir/clean:
 CMakeFiles/C7-4.dir/all:
 	$(MAKE) -f CMakeFiles\C7-4.dir\build.make CMakeFiles/C7-4.dir/depend
 	$(MAKE) -f CMakeFiles\C7-4.dir\build.make CMakeFiles/C7-4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=21,22 "Built target C7-4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=33,34 "Built target C7-4"
 .PHONY : CMakeFiles/C7-4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -295,7 +307,7 @@ CMakeFiles/C7-4.dir/clean:
 CMakeFiles/C9-5.dir/all:
 	$(MAKE) -f CMakeFiles\C9-5.dir\build.make CMakeFiles/C9-5.dir/depend
 	$(MAKE) -f CMakeFiles\C9-5.dir\build.make CMakeFiles/C9-5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=57,58 "Built target C9-5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=69,70 "Built target C9-5"
 .PHONY : CMakeFiles/C9-5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -322,7 +334,7 @@ CMakeFiles/C9-5.dir/clean:
 CMakeFiles/C7-7.dir/all:
 	$(MAKE) -f CMakeFiles\C7-7.dir\build.make CMakeFiles/C7-7.dir/depend
 	$(MAKE) -f CMakeFiles\C7-7.dir\build.make CMakeFiles/C7-7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=27,28 "Built target C7-7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=39,40 "Built target C7-7"
 .PHONY : CMakeFiles/C7-7.dir/all
 
 # Build rule for subdir invocation for target.
@@ -349,7 +361,7 @@ CMakeFiles/C7-7.dir/clean:
 CMakeFiles/C6-2.dir/all:
 	$(MAKE) -f CMakeFiles\C6-2.dir\build.make CMakeFiles/C6-2.dir/depend
 	$(MAKE) -f CMakeFiles\C6-2.dir\build.make CMakeFiles/C6-2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=13,14 "Built target C6-2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=25,26 "Built target C6-2"
 .PHONY : CMakeFiles/C6-2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -376,7 +388,7 @@ CMakeFiles/C6-2.dir/clean:
 CMakeFiles/C9-3.dir/all:
 	$(MAKE) -f CMakeFiles\C9-3.dir\build.make CMakeFiles/C9-3.dir/depend
 	$(MAKE) -f CMakeFiles\C9-3.dir\build.make CMakeFiles/C9-3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=53,54 "Built target C9-3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=65,66 "Built target C9-3"
 .PHONY : CMakeFiles/C9-3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -403,7 +415,7 @@ CMakeFiles/C9-3.dir/clean:
 CMakeFiles/C7-1.dir/all:
 	$(MAKE) -f CMakeFiles\C7-1.dir\build.make CMakeFiles/C7-1.dir/depend
 	$(MAKE) -f CMakeFiles\C7-1.dir\build.make CMakeFiles/C7-1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=15,16 "Built target C7-1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=27,28 "Built target C7-1"
 .PHONY : CMakeFiles/C7-1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -430,7 +442,7 @@ CMakeFiles/C7-1.dir/clean:
 CMakeFiles/P281_11.3.dir/all:
 	$(MAKE) -f CMakeFiles\P281_11.3.dir\build.make CMakeFiles/P281_11.3.dir/depend
 	$(MAKE) -f CMakeFiles\P281_11.3.dir\build.make CMakeFiles/P281_11.3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=61,62 "Built target P281_11.3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=73,74 "Built target P281_11.3"
 .PHONY : CMakeFiles/P281_11.3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -457,7 +469,7 @@ CMakeFiles/P281_11.3.dir/clean:
 CMakeFiles/C7-2.dir/all:
 	$(MAKE) -f CMakeFiles\C7-2.dir\build.make CMakeFiles/C7-2.dir/depend
 	$(MAKE) -f CMakeFiles\C7-2.dir\build.make CMakeFiles/C7-2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=17,18 "Built target C7-2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=29,30 "Built target C7-2"
 .PHONY : CMakeFiles/C7-2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -484,7 +496,7 @@ CMakeFiles/C7-2.dir/clean:
 CMakeFiles/C7-5.dir/all:
 	$(MAKE) -f CMakeFiles\C7-5.dir\build.make CMakeFiles/C7-5.dir/depend
 	$(MAKE) -f CMakeFiles\C7-5.dir\build.make CMakeFiles/C7-5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=23,24 "Built target C7-5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=35,36 "Built target C7-5"
 .PHONY : CMakeFiles/C7-5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -511,7 +523,7 @@ CMakeFiles/C7-5.dir/clean:
 CMakeFiles/C9-4.dir/all:
 	$(MAKE) -f CMakeFiles\C9-4.dir\build.make CMakeFiles/C9-4.dir/depend
 	$(MAKE) -f CMakeFiles\C9-4.dir\build.make CMakeFiles/C9-4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=55,56 "Built target C9-4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=67,68 "Built target C9-4"
 .PHONY : CMakeFiles/C9-4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -538,7 +550,7 @@ CMakeFiles/C9-4.dir/clean:
 CMakeFiles/C7-6.dir/all:
 	$(MAKE) -f CMakeFiles\C7-6.dir\build.make CMakeFiles/C7-6.dir/depend
 	$(MAKE) -f CMakeFiles\C7-6.dir\build.make CMakeFiles/C7-6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=25,26 "Built target C7-6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=37,38 "Built target C7-6"
 .PHONY : CMakeFiles/C7-6.dir/all
 
 # Build rule for subdir invocation for target.
@@ -565,7 +577,7 @@ CMakeFiles/C7-6.dir/clean:
 CMakeFiles/C8-1.dir/all:
 	$(MAKE) -f CMakeFiles\C8-1.dir\build.make CMakeFiles/C8-1.dir/depend
 	$(MAKE) -f CMakeFiles\C8-1.dir\build.make CMakeFiles/C8-1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=29,30 "Built target C8-1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=41,42 "Built target C8-1"
 .PHONY : CMakeFiles/C8-1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -592,7 +604,7 @@ CMakeFiles/C8-1.dir/clean:
 CMakeFiles/C8-2.dir/all:
 	$(MAKE) -f CMakeFiles\C8-2.dir\build.make CMakeFiles/C8-2.dir/depend
 	$(MAKE) -f CMakeFiles\C8-2.dir\build.make CMakeFiles/C8-2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=33,34 "Built target C8-2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=45,46 "Built target C8-2"
 .PHONY : CMakeFiles/C8-2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -619,7 +631,7 @@ CMakeFiles/C8-2.dir/clean:
 CMakeFiles/C8-3.dir/all:
 	$(MAKE) -f CMakeFiles\C8-3.dir\build.make CMakeFiles/C8-3.dir/depend
 	$(MAKE) -f CMakeFiles\C8-3.dir\build.make CMakeFiles/C8-3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=35,36 "Built target C8-3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=47,48 "Built target C8-3"
 .PHONY : CMakeFiles/C8-3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -646,7 +658,7 @@ CMakeFiles/C8-3.dir/clean:
 CMakeFiles/C8-4.dir/all:
 	$(MAKE) -f CMakeFiles\C8-4.dir\build.make CMakeFiles/C8-4.dir/depend
 	$(MAKE) -f CMakeFiles\C8-4.dir\build.make CMakeFiles/C8-4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=37,38 "Built target C8-4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=49,50 "Built target C8-4"
 .PHONY : CMakeFiles/C8-4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -673,7 +685,7 @@ CMakeFiles/C8-4.dir/clean:
 CMakeFiles/C8-5.dir/all:
 	$(MAKE) -f CMakeFiles\C8-5.dir\build.make CMakeFiles/C8-5.dir/depend
 	$(MAKE) -f CMakeFiles\C8-5.dir\build.make CMakeFiles/C8-5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=39,40 "Built target C8-5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=51,52 "Built target C8-5"
 .PHONY : CMakeFiles/C8-5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -700,7 +712,7 @@ CMakeFiles/C8-5.dir/clean:
 CMakeFiles/C8-6.dir/all:
 	$(MAKE) -f CMakeFiles\C8-6.dir\build.make CMakeFiles/C8-6.dir/depend
 	$(MAKE) -f CMakeFiles\C8-6.dir\build.make CMakeFiles/C8-6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=41,42 "Built target C8-6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=53,54 "Built target C8-6"
 .PHONY : CMakeFiles/C8-6.dir/all
 
 # Build rule for subdir invocation for target.
@@ -727,7 +739,7 @@ CMakeFiles/C8-6.dir/clean:
 CMakeFiles/C8-7.dir/all:
 	$(MAKE) -f CMakeFiles\C8-7.dir\build.make CMakeFiles/C8-7.dir/depend
 	$(MAKE) -f CMakeFiles\C8-7.dir\build.make CMakeFiles/C8-7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=43,44 "Built target C8-7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=55,56 "Built target C8-7"
 .PHONY : CMakeFiles/C8-7.dir/all
 
 # Build rule for subdir invocation for target.
@@ -754,7 +766,7 @@ CMakeFiles/C8-7.dir/clean:
 CMakeFiles/C8-8.dir/all:
 	$(MAKE) -f CMakeFiles\C8-8.dir\build.make CMakeFiles/C8-8.dir/depend
 	$(MAKE) -f CMakeFiles\C8-8.dir\build.make CMakeFiles/C8-8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=45,46 "Built target C8-8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=57,58 "Built target C8-8"
 .PHONY : CMakeFiles/C8-8.dir/all
 
 # Build rule for subdir invocation for target.
@@ -781,7 +793,7 @@ CMakeFiles/C8-8.dir/clean:
 CMakeFiles/C8-9.dir/all:
 	$(MAKE) -f CMakeFiles\C8-9.dir\build.make CMakeFiles/C8-9.dir/depend
 	$(MAKE) -f CMakeFiles\C8-9.dir\build.make CMakeFiles/C8-9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=47,48 "Built target C8-9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=59,60 "Built target C8-9"
 .PHONY : CMakeFiles/C8-9.dir/all
 
 # Build rule for subdir invocation for target.
@@ -808,7 +820,7 @@ CMakeFiles/C8-9.dir/clean:
 CMakeFiles/C8-10.dir/all:
 	$(MAKE) -f CMakeFiles\C8-10.dir\build.make CMakeFiles/C8-10.dir/depend
 	$(MAKE) -f CMakeFiles\C8-10.dir\build.make CMakeFiles/C8-10.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=31,32 "Built target C8-10"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=43,44 "Built target C8-10"
 .PHONY : CMakeFiles/C8-10.dir/all
 
 # Build rule for subdir invocation for target.
@@ -835,7 +847,7 @@ CMakeFiles/C8-10.dir/clean:
 CMakeFiles/C9-2.dir/all:
 	$(MAKE) -f CMakeFiles\C9-2.dir\build.make CMakeFiles/C9-2.dir/depend
 	$(MAKE) -f CMakeFiles\C9-2.dir\build.make CMakeFiles/C9-2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=51,52 "Built target C9-2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=63,64 "Built target C9-2"
 .PHONY : CMakeFiles/C9-2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -889,7 +901,7 @@ CMakeFiles/C10-1.dir/clean:
 CMakeFiles/C10-2.dir/all:
 	$(MAKE) -f CMakeFiles\C10-2.dir\build.make CMakeFiles/C10-2.dir/depend
 	$(MAKE) -f CMakeFiles\C10-2.dir\build.make CMakeFiles/C10-2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=5,6 "Built target C10-2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=7,8 "Built target C10-2"
 .PHONY : CMakeFiles/C10-2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -916,7 +928,7 @@ CMakeFiles/C10-2.dir/clean:
 CMakeFiles/C10-3.dir/all:
 	$(MAKE) -f CMakeFiles\C10-3.dir\build.make CMakeFiles/C10-3.dir/depend
 	$(MAKE) -f CMakeFiles\C10-3.dir\build.make CMakeFiles/C10-3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=7,8 "Built target C10-3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=9,10 "Built target C10-3"
 .PHONY : CMakeFiles/C10-3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -943,7 +955,7 @@ CMakeFiles/C10-3.dir/clean:
 CMakeFiles/C10-4.dir/all:
 	$(MAKE) -f CMakeFiles\C10-4.dir\build.make CMakeFiles/C10-4.dir/depend
 	$(MAKE) -f CMakeFiles\C10-4.dir\build.make CMakeFiles/C10-4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=9,10 "Built target C10-4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=11,12 "Built target C10-4"
 .PHONY : CMakeFiles/C10-4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -962,6 +974,168 @@ C10-4: CMakeFiles/C10-4.dir/rule
 CMakeFiles/C10-4.dir/clean:
 	$(MAKE) -f CMakeFiles\C10-4.dir\build.make CMakeFiles/C10-4.dir/clean
 .PHONY : CMakeFiles/C10-4.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/C10-5.dir
+
+# All Build rule for target.
+CMakeFiles/C10-5.dir/all:
+	$(MAKE) -f CMakeFiles\C10-5.dir\build.make CMakeFiles/C10-5.dir/depend
+	$(MAKE) -f CMakeFiles\C10-5.dir\build.make CMakeFiles/C10-5.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=13,14 "Built target C10-5"
+.PHONY : CMakeFiles/C10-5.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/C10-5.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/C10-5.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/C10-5.dir/rule
+
+# Convenience name for target.
+C10-5: CMakeFiles/C10-5.dir/rule
+
+.PHONY : C10-5
+
+# clean rule for target.
+CMakeFiles/C10-5.dir/clean:
+	$(MAKE) -f CMakeFiles\C10-5.dir\build.make CMakeFiles/C10-5.dir/clean
+.PHONY : CMakeFiles/C10-5.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/C10-6.dir
+
+# All Build rule for target.
+CMakeFiles/C10-6.dir/all:
+	$(MAKE) -f CMakeFiles\C10-6.dir\build.make CMakeFiles/C10-6.dir/depend
+	$(MAKE) -f CMakeFiles\C10-6.dir\build.make CMakeFiles/C10-6.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=15,16 "Built target C10-6"
+.PHONY : CMakeFiles/C10-6.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/C10-6.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/C10-6.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/C10-6.dir/rule
+
+# Convenience name for target.
+C10-6: CMakeFiles/C10-6.dir/rule
+
+.PHONY : C10-6
+
+# clean rule for target.
+CMakeFiles/C10-6.dir/clean:
+	$(MAKE) -f CMakeFiles\C10-6.dir\build.make CMakeFiles/C10-6.dir/clean
+.PHONY : CMakeFiles/C10-6.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/C10-7.dir
+
+# All Build rule for target.
+CMakeFiles/C10-7.dir/all:
+	$(MAKE) -f CMakeFiles\C10-7.dir\build.make CMakeFiles/C10-7.dir/depend
+	$(MAKE) -f CMakeFiles\C10-7.dir\build.make CMakeFiles/C10-7.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=17,18 "Built target C10-7"
+.PHONY : CMakeFiles/C10-7.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/C10-7.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/C10-7.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/C10-7.dir/rule
+
+# Convenience name for target.
+C10-7: CMakeFiles/C10-7.dir/rule
+
+.PHONY : C10-7
+
+# clean rule for target.
+CMakeFiles/C10-7.dir/clean:
+	$(MAKE) -f CMakeFiles\C10-7.dir\build.make CMakeFiles/C10-7.dir/clean
+.PHONY : CMakeFiles/C10-7.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/C10-8.dir
+
+# All Build rule for target.
+CMakeFiles/C10-8.dir/all:
+	$(MAKE) -f CMakeFiles\C10-8.dir\build.make CMakeFiles/C10-8.dir/depend
+	$(MAKE) -f CMakeFiles\C10-8.dir\build.make CMakeFiles/C10-8.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=19,20 "Built target C10-8"
+.PHONY : CMakeFiles/C10-8.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/C10-8.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/C10-8.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/C10-8.dir/rule
+
+# Convenience name for target.
+C10-8: CMakeFiles/C10-8.dir/rule
+
+.PHONY : C10-8
+
+# clean rule for target.
+CMakeFiles/C10-8.dir/clean:
+	$(MAKE) -f CMakeFiles\C10-8.dir\build.make CMakeFiles/C10-8.dir/clean
+.PHONY : CMakeFiles/C10-8.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/C10-9.dir
+
+# All Build rule for target.
+CMakeFiles/C10-9.dir/all:
+	$(MAKE) -f CMakeFiles\C10-9.dir\build.make CMakeFiles/C10-9.dir/depend
+	$(MAKE) -f CMakeFiles\C10-9.dir\build.make CMakeFiles/C10-9.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=21,22 "Built target C10-9"
+.PHONY : CMakeFiles/C10-9.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/C10-9.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/C10-9.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/C10-9.dir/rule
+
+# Convenience name for target.
+C10-9: CMakeFiles/C10-9.dir/rule
+
+.PHONY : C10-9
+
+# clean rule for target.
+CMakeFiles/C10-9.dir/clean:
+	$(MAKE) -f CMakeFiles\C10-9.dir\build.make CMakeFiles/C10-9.dir/clean
+.PHONY : CMakeFiles/C10-9.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/C10-10.dir
+
+# All Build rule for target.
+CMakeFiles/C10-10.dir/all:
+	$(MAKE) -f CMakeFiles\C10-10.dir\build.make CMakeFiles/C10-10.dir/depend
+	$(MAKE) -f CMakeFiles\C10-10.dir\build.make CMakeFiles/C10-10.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles --progress-num=5,6 "Built target C10-10"
+.PHONY : CMakeFiles/C10-10.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/C10-10.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/C10-10.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Code\C_Language_Practice\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/C10-10.dir/rule
+
+# Convenience name for target.
+C10-10: CMakeFiles/C10-10.dir/rule
+
+.PHONY : C10-10
+
+# clean rule for target.
+CMakeFiles/C10-10.dir/clean:
+	$(MAKE) -f CMakeFiles\C10-10.dir\build.make CMakeFiles/C10-10.dir/clean
+.PHONY : CMakeFiles/C10-10.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.
